@@ -12,3 +12,5 @@ yarn-error.log
 *.sln
 
 !dist/index.html
+package-lock.json
+package.json
